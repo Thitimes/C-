@@ -1,0 +1,18 @@
+Welcome to Arena 
+jAttack k
+k have 66 HP Left
+kAttack j
+j have 57 HP Left
+jAttack k
+k have 52 HP Left
+kAttack j
+j have 34 HP Left
+jAttack k
+k have 38 HP Left
+kAttack j
+j have 11 HP Left
+jAttack k
+k have 24 HP Left
+kAttack j
+j have -12 HP Left
+k is the winner! 
