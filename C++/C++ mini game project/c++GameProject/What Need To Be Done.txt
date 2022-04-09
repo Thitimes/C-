@@ -1,0 +1,22 @@
+random map
+1.random player and goal to be at least p.pos - goal.pos more than 3
+2. make path that player can end the game in the specific number of turn
+3.make false path for the player.
+
+
+1.1 fill array with 1111 finish
+		    1001
+		    1111
+1.2 ((width + height)/3 ) + (0-3) = how far player and goal need to be far apart finish
+
+1.3random player then goal finish
+
+1.4 ans form (1.2 / 3) + 1 = number of turn that player have finish
+
+1.5find a path form player to goal finish
+
+1.6 make the ground under that path
+
+1.7 (0 - 3) random ground  in the map 
+ 
+1.8 safe in text file
