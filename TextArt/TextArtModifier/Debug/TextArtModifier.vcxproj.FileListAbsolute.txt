@@ -1,0 +1,2 @@
+C:\Users\Helios 500\Desktop\Coding\cdt280\Assignment\TextArtModifier\Debug\TextArtModifier.exe
+C:\Users\Helios 500\Desktop\Coding\cdt280\Assignment\TextArtModifier\Debug\TextArtModifier.pdb

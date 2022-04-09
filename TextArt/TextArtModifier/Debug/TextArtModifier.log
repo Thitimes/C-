@@ -1,0 +1,5 @@
+﻿  TextArtModifier.cpp
+C:\Users\Helios 500\Desktop\Coding\cdt280\Assignment\TextArtModifier\TextArtModifier.cpp(17,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Helios 500\Desktop\Coding\cdt280\Assignment\TextArtModifier\TextArtModifier.cpp(23,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Helios 500\Desktop\Coding\cdt280\Assignment\TextArtModifier\TextArtModifier.cpp(37,21): warning C4018: '<': signed/unsigned mismatch
+  TextArtModifier.vcxproj -> C:\Users\Helios 500\Desktop\Coding\cdt280\Assignment\TextArtModifier\Debug\TextArtModifier.exe
